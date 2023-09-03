@@ -1,0 +1,2 @@
+# NotifyApp-Automated-Payment-Reminders-via-WhatsApp-and-Email
+NotifyApp is a powerful web application built with Python and Django Rest Framework that simplifies the process of sending automated payment reminders for loans,insurance,and rents. With NotifyApp,you can seamlessly notify your users about upcoming payment deadlines through WhatsApp or email,ensuring timely and reducing the risk of missed payments.
